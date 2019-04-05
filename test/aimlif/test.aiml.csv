@@ -1,0 +1,3 @@
+0,HELLO ALICE,*,*,Hello Alok,test.aiml
+0,HOW ARE YOU,*,*,I am doing great. thanks!,test.aiml
+0,HOW ARE YOU *,*,*,<srai>HOW ARE YOU</srai>,test.aiml
