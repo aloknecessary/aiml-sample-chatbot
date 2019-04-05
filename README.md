@@ -2,7 +2,8 @@
 An chat bot created using AIML, for demo purpose.
 
 These are the requirements for running this application on your system. 
-	## Step 1 - Set up Java Development Kit (JDK)
+
+## Step 1 - Set up Java Development Kit (JDK)
 
 You can download the latest version of SDK from Oracle's Java site −  [Java SE Downloads](https://www.oracle.com/technetwork/java/javase/downloads/index.html). You will find instructions for installing JDK in downloaded files, follow the given instructions to install and configure the setup. Finally set PATH and JAVA_HOME environment variables to refer to the directory that contains java and javac, typically java_install_dir/bin and java_install_dir respectively.
 
