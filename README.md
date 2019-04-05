@@ -38,3 +38,17 @@ Now if everything is fine, then you can proceed to setup your Program AB. Follow
 | 4 |  **c:/ab/run.bat** <br> batch file for running Program AB|
 
 Once you are done with this last step, you are ready to proceed with running this AIML Example
+
+
+## Step 3 - Executing this sample bot
+
+Now clone or download this repo on your local machine. 
+
+Once done Copy the cloned **test** folder and paste inside **c:/ab/bots** folder (in your case this will be the folder where you have extracted the Program AB solution files.)
+Open a cmd / powershell window and execute the following command to run it.
+
+    java -cp lib/Ab.jar Main bot=test action=chat trace=false
+   This will show you the following output(this is a sample screen, actual output may differ):
+   
+![sample start up image when app starts](https://github.com/aloknecessary/aiml-sample-chatbot/blob/master/AIML_SAMPLE_START_UP.png)
+
